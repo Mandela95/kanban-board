@@ -1,5 +1,7 @@
 # Kanban Board
 
+# Live server: https://mandela95.github.io/kanban-board/
+
 A Kanban-style task management app built with React, Redux, React Query, and Material UI.
 
 ## Features
