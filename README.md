@@ -4,6 +4,8 @@
 
 A Kanban-style task management app built with React, Redux, React Query, and Material UI.
 
+![Kanban-Board(Home)](https://raw.githubusercontent.com/Mandela95/kanban-board/refs/heads/main/kanban-board.png)
+
 ## Features
 
 - 4 columns: To Do, In Progress, In Review, Done
