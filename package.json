@@ -1,6 +1,6 @@
 {
   "homepage": "https://Mandela95.github.io/kanban-board/",
-  "name": "vite-template-redux",
+  "name": "kanban-board",
   "private": true,
   "version": "0.0.0",
   "type": "module",
